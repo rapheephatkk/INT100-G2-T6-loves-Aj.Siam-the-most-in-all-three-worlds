@@ -1,39 +1,39 @@
 # Member 3 : กันตพงศ์ พูลโภคา
 
-- Nickname :
-- Age :
+- Nickname : กันต์
+- Age : 18
 
-<img src="images/member3.jpg" alt="3" width="200">
+<img src="images/member3.png" alt="3" width="200">
 
 ---
 
 ## Why did you choose to study at SIT, KMUTT?
 
-- [Answer]
+- เพราะคณะอื่นของมหาวิทยาลัยอื่นไม่อยากเข้า
 
 ## How do you feel now that you are actually studying at SIT, KMUTT?
 
-- [Answer]
+- เหนื่อย
 
 ## What was your first impression of SIT, KMUTT?
 
-- [Answer]
+- ดูเงียบสงบดี
 
 ## What are your hobbies?
 
-- [Answer]
+- เล่นเกม
 
 ## What are you interested in?
 
-- [Answer]
+- การเขียน coding
 
 ## Contact
 
-- [Instagram](https://www.instagram.com/USERNAME)
-- [GitHub](https://github.com/USERNAME)
+- [Instagram](https://www.instagram.com/bylil._.g4nx)
+- [GitHub](https://github.com/GG4NX)
 
 ---
 
-### Introduction written by
+### Introduction written by เฌอฟ้า โดมศรีฟ้า(ลิเดีย)
 
 ---

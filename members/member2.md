@@ -4,7 +4,7 @@
 - Date : 1/2/08
 - Age : 18
 
-<img src="images/member2.jpg" alt="2" width="200">
+<img src="../images/member2.jpg" alt="Alt text" width="300">
 
 
 ---

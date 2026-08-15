@@ -3,7 +3,7 @@
 - Nickname : กันต์
 - Age : 18
 
-<img src="images/member3.jpg" alt="3" width="200">
+<img src="../images/member3.jpg" alt="Alt text" width="300">
 
 ---
 

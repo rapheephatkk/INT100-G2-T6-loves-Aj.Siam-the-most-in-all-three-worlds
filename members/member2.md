@@ -4,7 +4,8 @@
 - Date : 1/2/08
 - Age : 18
 
-![alt text](image-1.png)
+<img src="images/member2.jpg" alt="2" width="200">
+
 
 ---
 
@@ -14,7 +15,7 @@
 
 ## How do you feel now that you are actually studying at SIT, KMUTT?
 
-- สังคมดีนะที่นี่ เป็นกันเองมากกว่าที่คิดทำให้รู้สึกมั่นใจในการเป็นตัวเองมากขึ้น 
+- เพื่อนบอกว่า สังคมดีนะที่นี่เป็นกันเองมากกว่าที่คิดทำให้รู้สึกมั่นใจในการเป็นตัวเองมากขึ้น 
 
 
 ## What are your hobbies?
@@ -23,7 +24,7 @@
 
 ## What are you interested in?
 
-- สนใจฝึกงานที่ต่างประเทศ
+- สนใจฝึกงานที่ต่างประเทศ 
 
 - Ux/Ui Design
 

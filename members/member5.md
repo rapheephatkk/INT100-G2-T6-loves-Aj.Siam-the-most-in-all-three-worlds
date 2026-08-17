@@ -3,7 +3,7 @@
 - Nickname : เหนือ
 - Age : 18
 
-<img src="images/member5.jpg" alt="5" width="200">
+<img src="../images/member5.png" alt="5" width="200">
 
 ---
 

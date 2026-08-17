@@ -38,6 +38,8 @@
 
 ---
 
-### Introduction written by Gantapong Poolpoka
+### Introduction written by 
+- Gantapong Poolpoka
 
 ---
+[Back To Our Team](../our-team.md)

@@ -33,6 +33,8 @@
 
 ---
 
-### Introduction written by รพีภัทร ก้อนแก้ว(ไอซ์)
+### Introduction written by 
+- รพีภัทร ก้อนแก้ว(ไอซ์)
 
 ---
+[Back To Our Team](../our-team.md)

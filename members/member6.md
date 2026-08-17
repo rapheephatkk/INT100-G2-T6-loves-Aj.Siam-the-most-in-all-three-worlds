@@ -1,6 +1,6 @@
 # Member 6 : รพีภัทร ก้อนแก้ว
 
-- Nickname : ไอซ์์
+- Nickname : ไอซ์
 - Age : 19
 
 <img src="../images/member6.jpg" alt="6" width="200">
@@ -37,3 +37,4 @@
 ### Introduction written by
 - พิชญาภา ดีประเสริฐ (เหนือ)
 ---
+[Back To Our Team](../our-team.md)
